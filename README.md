@@ -1,5 +1,4 @@
-<a href="[https://soundbanks.io/product/impact-soundworks-charisma-volume-1/]">Impact Soundworks – Charisma Volume 1
-</a>
+Impact Soundworks – Charisma Volume 1
 Bring your music to life with bold cinematic vocals.
 
 Dive into Charisma Volume 1, a versatile vocal library featuring over 100 evocative, ready-to-use phrases by internationally acclaimed opera singer and YouTuber Elizabeth Zharoff, founder of The Charismatic Voice.
@@ -24,4 +23,5 @@ Verismo
 Elizabeth Zharoff’s expertise in emotional, science-backed singing ensures each phrase is rich with energy, personality, and cinematic appeal. Perfect for film scores, trailers, games, and more.
 
 Transform your compositions with Charisma Volume 1!
-
+<a href="https://soundbanks.io/product/impact-soundworks-charisma-volume-1/
+">Impact Soundworks – Charisma Volume 1 </a>
